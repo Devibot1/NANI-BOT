@@ -18,28 +18,22 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)    
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「PRECIOS DE THEZEROBOT」
+let str = `╭「PRECIOS DE NANI BOT」
 │🛍️ *𝙷𝙾𝙻𝙰 𝚀𝚄𝙴 𝚃𝙰𝙻-${taguser}
-│🛍️ *𝚃𝙴 𝙸𝙽𝙵𝙾𝚁𝙼𝙾 𝚂𝙾𝚈 zero
-│🛍️ *𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂:http://wa.me/59897463355
+│🛍️ *𝚃𝙴 𝙸𝙽𝙵𝙾𝚁𝙼𝙾 𝚂𝙾𝚈 PACHON
+│🛍️ *𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂:http://wa.me/525634990524
 │🛍️ *𝚃𝙴𝙽𝙶𝙾 𝙳𝙸𝙵𝙴𝚁𝙴𝙽𝚃𝙴𝚂 𝙿𝚁𝙴𝙲𝙸𝙾𝚂 𝙿𝙰𝚁𝙰 𝙼𝙸𝚂 𝙱𝙾𝚃
 ︎╰───────────────╯
 🛍️᭢━━━━━━━━━᭥🛍️᭢
 ╭「𝐏𝐑𝐄𝐂𝐈𝐎𝐒 𝐃𝐄 𝐏𝐀𝐐𝐔𝐄𝐓𝐄 𝐃𝐄 𝐁𝐎𝐓𝐒 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐀𝐃𝐎𝐒」
-💌Bot Mensual : 🇵🇪4 Yape/🇦🇷500 Cbu/🇲🇽40 MX/💎100
-
-💌Bot Permanente : 🇵🇪8 Yape/🇦🇷1000 Cbu/🇲🇽60 MX/💎200
-
-💌Bot Personalizado : 🇵🇪13 Yape/🇦🇷1500 Cbu/🇲🇽80 MX/💎300
-
-💌Bot Propio : 🇵🇪16 Yape/🇦🇷2000 Cbu/🇲🇽117 MX/💎500
+💌Bot Mensual : 🇲🇽20 MX/💎100
+💌Bot Permanente :🇲🇽60 MX/💎400
+💌Bot Personalizado : 🇲🇽150 MX
 ╰───────────────╯
 🛍️᭢━━━━━━━━━᭥🛍️᭢
 ╭「𝐏𝐑𝐄𝐂𝐈𝐎𝐒 𝐃𝐄 𝐁𝐎𝐓𝐂𝐈𝐓𝐎𝐒 𝐏𝐀𝐑𝐀 𝐆𝐑𝐔𝐏𝐎𝐒」
-│💌BOT MENSUAL : 🇵🇪4 Yape/🇦🇷500 Cbu/🇲🇽40 MX/💎100
-│💌BOT TRIMESTRAL : 🇵🇪15 Yape/🇦🇷 1300 CBU/🇲🇽70 MX💎400
-│💌BOT PERMANENTE : 🇵🇪8 Yape/🇦🇷1000 Cbu/🇲🇽60 MX/💎200
-│💌HACER NÚMERO BOT :🇵🇪12 Yape/🇦🇷1300 Cbu/🇲🇽75 MX💎50
+│💌BOT MENSUAL : 🇲🇽20 MX/💎100
+│💌BOT PERMANENTE : 🇲🇽60 MX/💎400
 ╰───────────────╯
 🛍️᭢━━━━━━━━━᭥🛍️᭢
 ╭「𝐀𝐂𝐋𝐀𝐑𝐀𝐂𝐈𝐎𝐍𝐄𝐒」
