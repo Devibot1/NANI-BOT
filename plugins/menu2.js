@@ -80,9 +80,9 @@ let menu = `⌜ *${wm}* ⌟
 
 *Hola ${taguser}*
 
-□ *Creador: TheZero*
-□ *Numero del creador: wa.me/59897463355*
-□ *Numero de la Creadora2: wa.me/51967647592*
+□ *Creador: PACHON*
+□ *Numero del creador: wa.me/525634990524*
+□ *Numero de la Creadora2: wa.me/525634990524*
 □ *Tiempos activos :* *${uptime}*
 □ *Usuarios:* *${Object.keys(global.db.data.users).length}*
 □ *Registrado: ${rtotalreg} de ${totalreg}* ${(conn.user.jid == global.conn.user.jid ? '' : `\n□ *Soy un sub bot del:* wa.me/${global.conn.user.jid.split`@`[0]}`) || ''}
@@ -96,7 +96,7 @@ let menu = `⌜ *${wm}* ⌟
 □ *🔰 Mi estado:* ${typeof user.miestado !== 'string' ? '_#miestado || Estado no asignado_' : '_Me siento ' + user.miestado + '_'}
 □ *🎖️ Nivel:* ${level}
 □ *💎 Diamantes:* ${limit}
-□ *👾 ZeroCoins:* ${money}
+□ *👾 NaniCoins:* ${money}
 □ *🪙 Tokens:* ${joincount}
 □ *🧰 Experiencia:* ${exp}
 □ *⚓ Rango:* ${role}
