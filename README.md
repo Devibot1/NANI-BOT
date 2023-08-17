@@ -1,7 +1,7 @@
 # `🧿 NANI-BOT 🔮`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/51955095498" target="blank"><img src="https://img.shields.io/badge/RYU_BOT_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/525634990524" target="blank"><img src="https://img.shields.io/badge/PACHON_DOMINA_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉ 💟 GRUPO DE SOPORTE 💟`
 
